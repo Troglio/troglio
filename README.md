@@ -14,12 +14,13 @@ Look how your next website could look-like:
 </p>
 
 # Features
-- Instant previews
-- Write from anywhere, even offline
-- Push or Pull data: your choice.
+- :eye: Instant previews
+- :electric_plug: Connect to any site or app
+- :beach_umbrella: Write from anywhere, even offline
+- :arrows_counterclockwise: Push or Pull data: your choice.
 - Write using Markdown
 - Add properties using Custom fields (separate power-up) and/or a TOML-like syntax
-- Don't repeat yourself: control properties from other cards
+- :video_game: Don't repeat yourself: control properties from other cards
 
 # Starters & Tutorials
 
