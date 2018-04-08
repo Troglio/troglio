@@ -16,10 +16,10 @@ Look how your next website could look-like:
 # Features
 - :mag_right: Instant previews
 - :electric_plug: Connect to any site or app
-- :desert_island: :beach_umbrella: Write from anywhere, even offline
+- :beach_umbrella: Write from anywhere, even offline
 - :arrows_counterclockwise: Push or Pull data: your choice.
 - Write using Markdown
-- :label: :bookmark: Add custom properties using Custom fields (separate power-up) and/or a TOML-like syntax
+- :bookmark: Add custom properties using Custom fields (separate power-up) and/or a TOML-like syntax
 - :video_game: Don't repeat yourself: control properties from other cards
 
 # Starters & Tutorials
