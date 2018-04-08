@@ -10,7 +10,7 @@ Turn Trello into a fully fledged CMS: pages, posts, custom types, previews... an
 Look how your next website could look-like:
 <br />
 <p align="center">
-    <img src="https://troglio.com/img/trello-blog-board.png" width="200" height="200" alt="Troglio" />
+    <img src="https://troglio.com/img/trello-blog-board.png" alt="Troglio" />
 </p>
 
 # Features
