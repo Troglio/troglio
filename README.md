@@ -14,18 +14,18 @@ Look how your next website could look-like:
 </p>
 
 # Features
-- :mag_right: Instant previews
-- :electric_plug: Connect to any site or app
-- :beach_umbrella: Write from anywhere, even offline
+- :electric_plug: Connect to any site or app.
+- :beach_umbrella: Write from anywhere, even offline.
+- :mag_right: Instant previews: visualize your changes live.
 - :arrows_counterclockwise: Push or Pull data: your choice.
-- **M** Write using Markdown
-- :bookmark: Add custom properties using Custom fields (separate power-up) and/or a TOML-like syntax
-- :video_game: Don't repeat yourself: control properties from other cards
+- **M** Write using Markdown.
+- :bookmark: Add custom properties using Custom fields (separate power-up) and/or a TOML-like syntax.
+- :video_game: Don't repeat yourself: control properties from other cards.
 
 # Starters & Tutorials
 
 - [A basic blog with Trello](https://github.com/Troglio/troglio-starter-preact-static)
-- [Send troglio pages to an Express endpoint](https://github.com/Troglio/express-nedb-endpoint)
+- [A minimal API endpoint with Node.js + Express + Nedb](https://github.com/Troglio/express-nedb-endpoint)
 
 
 # Getting started
