@@ -18,7 +18,7 @@ Look how your next website could look-like:
 - :electric_plug: Connect to any site or app
 - :beach_umbrella: Write from anywhere, even offline
 - :arrows_counterclockwise: Push or Pull data: your choice.
-- Write using Markdown
+- **M** Write using Markdown
 - :bookmark: Add custom properties using Custom fields (separate power-up) and/or a TOML-like syntax
 - :video_game: Don't repeat yourself: control properties from other cards
 
