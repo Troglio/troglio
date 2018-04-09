@@ -53,9 +53,9 @@ Previews is a neat feature that allows one to instantly see changes before publi
 **How it works ?**
 Basically, Troglio will create JSON pages out of Trello cards right in the browser. When a user requests a preview, Troglio opens an iFrame containing both the corresponding page + the new data.
 
-As a developer it means that, when your website is opened through an iFrame, you should intercept these new data and propagate them accordingly to fill your templates lives.
+As a developer it means that, when your website is opened through an iFrame, you should intercept these new data and propagate them accordingly to fill your templates, live.
 
-If you use a Javascript framework (like React), it is a piece of cake: just catch the new data and propagate them into your routes as new props. [Here is a complete working project for you to get started.](https://github.com/Troglio/troglio-starter-preact-static)
+If you use a Javascript framework (like React), it is a piece of cake: just catch the new data and propagate them into your routes as new props. [Here is a snippet illustrating the point.](https://github.com/Troglio/troglio-starter-preact-static/blob/master/src/App.js)
 
 
 # Support
