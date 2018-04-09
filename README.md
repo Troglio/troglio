@@ -55,7 +55,7 @@ Basically, Troglio will create JSON pages out of Trello cards right in the brows
 
 As a developer it means that, when your website is opened through an iFrame, you should intercept these new data and propagate them accordingly to fill your templates, live.
 
-If you use a Javascript framework (like React), it is a piece of cake: just catch the new data and propagate them into your routes as new props. [Here is a snippet illustrating the point.](https://github.com/Troglio/troglio-starter-preact-static/blob/master/src/App.js)
+If you use a Javascript framework (like React), it is a piece of cake: just catch the new data and propagate them into your routes as new props. [Here is a snippet illustrating the point](https://github.com/Troglio/troglio-starter-preact-static/blob/master/src/App.js) **(PAY ATTENTION TO COMMENTS)**.
 
 
 # Support
