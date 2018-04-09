@@ -10,7 +10,7 @@ Turn Trello into a fully fledged CMS: pages, posts, custom types, previews... an
 Look how your next website backend could look-like:
 <br />
 <p align="center">
-    <img src="https://troglio.com/img/trello-blog-board.png" alt="Troglio" />
+    <img src="https://troglio.com/img/trello-blog-board.png" alt="Trello Blog board example" />
 </p>
 
 # Features
@@ -30,7 +30,12 @@ Look how your next website backend could look-like:
 
 # Getting started
 
-Go to [Trello.com](https://trello.com), add the `Troglio` power-up to a board, and dollow the getting started !
+Go to [Trello.com](https://trello.com), add the `Troglio` power-up to a board, and follow the getting started !
+
+<br />
+<p align="center">
+    <img src="https://troglio.com/img/enable-troglio-power-up.gif" alt="Enable troglio power-up" />
+</p>
 
 
 # Push or Pull ?
