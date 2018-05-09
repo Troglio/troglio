@@ -52,9 +52,9 @@ Once you selected your team, just click on "Create a new Power-Up", fill the for
 
 **Power-Up capabilities:** authorization-status, board-buttons, callback, card-buttons, show-authorization, show-settings
 
-**Power-Up icon URL:** https://powerup-v2.netlify.com/troglio-logo.png
+**Power-Up icon URL:** https://powerup.troglio.com/troglio-logo.png
 
-**iFrame connector URL:** https://powerup-v2.netlify.com/index.html
+**iFrame connector URL:** https://powerup.troglio.com/index.html
 
 **Link to your privacy policy:** https://troglio.com/privacy
 
