@@ -72,7 +72,7 @@ Once you have added the Power-Up, you are good to go !! Just go to any board in 
 
 We presented Troglio in front of Trello and received a very good attention and interest. However, we agreed upon the fact that Troglio is a bit more advanced than the average Power-Up. Precisely, Troglio is out of the scope of Trello's average user base.
 
-We do aknowledge the fact that Troglio has extensive flexibility overwhelming the average click-and-point user. However, apps and websites are never done without an advised technician able to [read our docs](https://troglio.com/guide) and do the proper setup for its customer/fellow writer. After setup, Troglio is made for average user to be more than comfortable to edit ad organize its content intuitively (it's just text and images in Trello cards: setup makes the rest automagically). 
+We do aknowledge the fact that Troglio has extensive flexibility overwhelming the average click-and-point user. However, apps and websites are never done without an advised technician able to [read our docs](https://troglio.com/guide) and do the proper setup for its customer/fellow writer. After setup, Troglio is made for average user to be more than comfortable to edit and organize its content intuitively (it's just text and images in Trello cards: setup makes the rest automagically). 
 
 That being said, Troglio is not meant to be a drop-in replacement for Wordpress and other CMS, rather it is a neat way for developers to stay away from monolothic CMS and suggest customers a JAMStack-style exprience: developers do what they are good at without limits, and users edit their content free from any organizational constraints.
 
