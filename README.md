@@ -70,7 +70,7 @@ Once you have added the Power-Up, you are good to go !! Just go to any board in 
 
 # Why Troglio is not available directly into Trello ?!
 
-We presented Troglio in front of Trello and received a very good attention and interest. However, we agreed upon the fact that Troglio is a bit more advanced than the average Power-Up. Precisely, **Troglio is out of the scope of Trello's average user base since the user needs to already come with its app/website to find an interest in using Trello/Troglio**.
+We presented Troglio in front of Trello and received a very good attention and interest. However, we agreed upon the fact that Troglio is a bit more advanced than the average Power-Up. Precisely, **Troglio is out of the scope of Trello's average user base since the user needs to already come with its app/website to find an interest in using Trello/Troglio** (the very concept of headless CMS is not for common Trello users).
 
 We do aknowledge the fact that Troglio has extensive flexibility overwhelming the average click-and-point user. However, apps and websites are never done without an advised technician able to [read our docs](https://troglio.com/guide) and do the proper setup for its customer/fellow writer. After setup, Troglio is made for average user to be more than comfortable to edit and organize its content intuitively (it's just text and images in Trello cards: setup makes the rest automagically). 
 
