@@ -70,14 +70,11 @@ Once you have added the Power-Up, you are good to go !! Just go to any board in 
 
 # Why Troglio is not available directly into Trello ?!
 
-We presented Troglio in front of Trello and received a very good attention and interest. However, we agreed upon the fact that Troglio is a bit more advanced than the average Power-Up. Precisely, **Troglio is out of the scope of Trello's average user base since the user needs to already come with its app/website to find an interest in using Trello/Troglio** (the very concept of headless CMS is not for common Trello users).
+We presented Troglio in front of Trello and received a very good attention and interest. However, we agreed upon the fact that Troglio is a bit more advanced than the average Power-Up. Precisely, **Troglio is out of the scope of Trello's average user base since it requires to come with its app/website to find an interest in using Trello + Troglio** (the very concept of headless CMS is not for common Trello users).
 
-We do aknowledge the fact that Troglio has extensive flexibility overwhelming the average click-and-point user. However, apps and websites are never done without an advised technician able to [read our docs](https://troglio.com/guide) and do the proper setup for its customer/fellow writer. After setup, Troglio is made for average user to be more than comfortable to edit and organize its content intuitively (it's just text and images in Trello cards: setup makes the rest automagically). 
+For this reason, **Trello expressely encouraged us** to promote Troglio this way (out of Trello). Having the power-up available from their public listing could lead to confusion since common Trello users do not have any website/app just yet and could think of Troglio as a classic monolithic solution (in contrast with a headless CMS).
 
-That being said, Troglio is not meant to be a drop-in replacement for Wordpress and other CMS, rather it is a neat way for developers to stay away from monolothic CMS and suggest customers a JAMStack-style exprience: developers do what they are good at without limits, and users edit their content free from any organizational constraints.
-
-Finally, note that **Trello expressely encouraged us** to promote Troglio this way (out of Trello) since our direct audience is **YOU** (advanced user) before the average Trello user: we first need a website/app for troglio to make sense. Having the power-up available from their public listing could lead to confusion, especifically if the user does not have a website/app just yet.
-
+Now, there is absolutely no difference nor limitations on installing a custom power-up manually with Trello. Just go ahead a try now !! 
 
 # The guide
 
